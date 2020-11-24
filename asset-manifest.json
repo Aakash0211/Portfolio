@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ec33fe08.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ca64b85c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ca64b85c.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.a7e45797.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.a7e45797.js.map",
+    "static/js/2.919589c4.chunk.js": "/Portfolio/static/js/2.919589c4.chunk.js",
+    "static/js/2.919589c4.chunk.js.map": "/Portfolio/static/js/2.919589c4.chunk.js.map",
+    "static/js/3.b58da025.chunk.js": "/Portfolio/static/js/3.b58da025.chunk.js",
+    "static/js/3.b58da025.chunk.js.map": "/Portfolio/static/js/3.b58da025.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.ec33fe08.chunk.css.map": "/Portfolio/static/css/main.ec33fe08.chunk.css.map",
+    "static/js/2.919589c4.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.919589c4.chunk.js.LICENSE.txt",
+    "static/media/Aakash2.6852a41d.jpeg": "/Portfolio/static/media/Aakash2.6852a41d.jpeg",
+    "static/media/Aakash6.8dd5a3df.jpeg": "/Portfolio/static/media/Aakash6.8dd5a3df.jpeg",
+    "static/media/App.css": "/Portfolio/static/media/pexels-karolina-grabowska-5208871.dae1812d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e45797.js",
+    "static/js/2.919589c4.chunk.js",
+    "static/css/main.ec33fe08.chunk.css",
+    "static/js/main.ca64b85c.chunk.js"
+  ]
+}
