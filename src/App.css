@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dekko&display=swap');
+@font-face {
+  font-family: 'Patrick Hand';
+  src: url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap')
+}
+@font-face {
+  font-family: 'Dekko';
+  src: url('https://fonts.googleapis.com/css2?family=Dekko&display=swap')
+}
+.Link{
+  display:flex;
+  list-style-type: none;
+}
+body{background-image:url("pexels-karolina-grabowska-5208871.jpg"); 
+ background-size:1720px;
+ background-repeat:no-repeat;
+}
+.paper{
+  max-width:560px;
+  padding:7px;
+  background: #FC354C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0ABFBC, #FC354C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.Nav{
+  background: #00c6ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+p{
+  font-family:'Patrick Hand'
+
+}
+.fn{
+  font-family:'Patrick Hand'
+}
+.hd{
+  font-family: "Dekko";
+}
